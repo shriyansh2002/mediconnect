@@ -12,7 +12,7 @@ MediConnect is a modern web application designed to simplify doctor appointment 
 
 
 
-![Screenshot 2025-03-21 111136](https://github.com/user-attachments/assets/427c35a1-2efd-4137-b790-476a507a2986)
+
 
 
 ---
@@ -25,7 +25,15 @@ MediConnect is a modern web application designed to simplify doctor appointment 
 ✅ **Secure Authentication** – JWT-based login system for enhanced security.  
 ✅ **Admin Panel** – Manage users, doctors, and system settings.  
 
+
+
+
+
+
+
 ---
+
+![Screenshot 2025-03-21 111136](https://github.com/user-attachments/assets/427c35a1-2efd-4137-b790-476a507a2986)
 
 ## 🛠️ Tech Stack
 - **Frontend**: React.js (with Redux for state management)
