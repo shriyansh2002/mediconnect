@@ -3,6 +3,9 @@
 ## 🏥 Overview
 MediConnect is a modern web application designed to simplify doctor appointment bookings by offering **real-time availability checks**, **telehealth integration**, and **automated notifications**. It enhances patient experience, reduces no-show rates, and improves clinic efficiency.
 
+
+![Screenshot 2025-03-21 111055](https://github.com/user-attachments/assets/c8bf2fc8-5695-43fb-9ef0-f31168592414)
+
 ---
 
 ## ✨ Features
